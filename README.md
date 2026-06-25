@@ -38,3 +38,4 @@ PDF2Image
 2. add your own api key.
 3. pip install google-generative ai as genai.
 4. streamlit run app.py.
+# app working screenshots:

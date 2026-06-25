@@ -39,3 +39,4 @@ PDF2Image
 3. pip install google-generative ai as genai.
 4. streamlit run app.py.
 # app working screenshots:
+https://github.com/Akshita123-as/AICTE-Batch26--AI-STUDY-BUDDY/blob/main/Screenshot%20(32).png
